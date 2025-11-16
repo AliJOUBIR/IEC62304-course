@@ -1,3 +1,5 @@
+/* this code is written as an example code and not been compiled take it with a grain of salt*/
+
 #define AIR_LIGHT 0
 #define HUM_TEMP 1
 #define ALARM 2
