@@ -16,7 +16,7 @@ int button_click()
 
 int gas_measure()
 {
-    int gas_mears;
+    int gas_mears = 0;
     /* gas */
     return gas_mears; /*0 100 , 80 mean danger*/ 
 }
@@ -42,7 +42,7 @@ int gas_deteted()
 
 int gas_low()
 {
-    int gas;
+    int gas = 0;
     /* gas */
     return gas;
 }
